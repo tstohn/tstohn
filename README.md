@@ -6,8 +6,10 @@ Therefore, i develop solutions from the raw data processing to methods to infer 
 
 I develop fast, memory-efficient, and scalable software solutions for single-cell data analysis, with a strong focus on extracting meaningful biological insights from complex datasets. 
 My current research centers on (phospho)protein data, where I study correlation patterns at the single-cell level to infer signaling networks. 
-My work spans the full analytical pipeline, from raw data processing and normalization to downstream network analysis.
+My work spans the full analytical pipeline, from raw data processing and normalization to downstream network analysis of single-cell protein datasets. I develop tools that process data in ways that enables truthful recovery of co-variation pattern between proteins. Subsequently I study how these features co-vary and this information (encoded in the mutual variation of proteins) flows through signaling networks and thereby defines how cells reponde to drug-treatment, external factors, etc.
+In the future i hope to use these pathway modelling techniques to engineer cell-fate behavior, study how to push cells into vulnerable states, predict their response to treatment or enhance productivity like biomass/ protein or aromatic compound production.
 
-I am proficient in C++, R, and Python, and particularly interested in performance-oriented computing and scalable algorithm design for large biological datasets.
+I am proficient in C++, R, and Python, and particularly interested in performance-oriented computing and scalable algorithms design for large and complex biological datasets.
+
 I am currently a PhD student based in Leiden, completing my doctorate at the Netherlands Cancer Institute (NKI) in collaboration with VU Amsterdam. 
 I previously studied Biotechnology at TU Berlin and Bioinformatics at the University of Hamburg.
