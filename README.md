@@ -1,15 +1,11 @@
-<div style="background: transparent; border: none; box-shadow: none;">
-<table style="border: none; border-collapse: collapse; background: transparent; width: 100%; margin: 0; padding: 0;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; background: transparent; padding: 0; width: 100px; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="100" height="100" alt="SignalFlow Logo" style="display: block; min-width: 100px; max-width: 100px; object-fit: contain; border: none;" />
-    </td>
-    <td style="border: none; background: transparent; padding: 0 0 0 18px; height: 100px; vertical-align: middle;">
-      <h1 style="margin: 0; padding: 0; color: #222222; font-size: 2.1rem; border-bottom: none; line-height: 1.1; font-weight: 800; letter-spacing: -0.5px;">Tim Stohn</h1>
-      <p style="margin: 6px 0 0 0; padding: 0; color: #777777; font-size: 1.15rem; font-weight: 500; line-height: 1.1; letter-spacing: -0.2px;">Modelling signaling on the single-cell level</p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; align-items: center; gap: 20px; background: transparent; border: none; padding: 0; margin: 0;">
+  <div style="flex-shrink: 0; width: 100px; height: 100px;">
+    <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="100" height="100" alt="SignalFlow Logo" style="display: block; object-fit: contain; border: none;" />
+  </div>
+  <div style="display: flex; flex-direction: column; justify-content: center; border: none; padding: 0; margin: 0;">
+    <h1 style="margin: 0; padding: 0; color: #222222; font-size: 2.5rem; border-bottom: none; line-height: 1.1; font-weight: 800; letter-spacing: -0.5px;">Tim Stohn</h1>
+    <p style="margin: 6px 0 0 0; padding: 0; color: #959595; font-size: 1.3rem; font-weight: 500; line-height: 1.1; letter-spacing: -0.2px;">Modelling signaling on the single-cell level</p>
+  </div>
 </div>
 
 ---
