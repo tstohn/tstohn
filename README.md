@@ -1,8 +1,8 @@
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="55" alt="SignalFlow Logo" />
-  <div>
-    <h1 style="margin: 0; padding: 0; color: #000000; font-size: 1.8rem; border-bottom: none;">Tim Stohn | Biography & Research</h1>
-    <p style="margin: 4px 0 0 0; padding: 0; color: #555555; font-size: 1.1rem; font-weight: 500;">Modelling signaling on the single-cell level</p>
+<div style="display: flex; align-items: stretch; gap: 16px;">
+  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="60" alt="SignalFlow Logo" style="object-fit: contain; align-self: center;" />
+  <div style="display: flex; flex-direction: column; justify-content: center;">
+    <h1 style="margin: 0; padding: 0; color: #222222; font-size: 1.7rem; border-bottom: none; line-height: 1.2;">Tim Stohn | Biography & Research</h1>
+    <p style="margin: 4px 0 0 0; padding: 0; color: #555555; font-size: 1.05rem; font-weight: 500; line-height: 1.2;">Modelling signaling on the single-cell level</p>
   </div>
 </div>
 
