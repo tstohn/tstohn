@@ -1,6 +1,6 @@
-<h1>
-  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="70" alt="SignalFlow Logo" style="vertical-align: middle; margin-right: 12px;" />
-  Me 
+<h1 style="display: flex; align-items: center; gap: 12px;">
+  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="90" alt="SignalFlow Logo" style="display: inline-block;" />
+  <span>Me</span>
 </h1>
 
 ---
