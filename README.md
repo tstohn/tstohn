@@ -9,9 +9,9 @@
   <b>Modelling signaling on the single-cell level</b>
 </p>
 
-<h1 align="center">
+<h3 align="center">
   Understanding Signal Flow • Fast & memory efficient software
-</h1>
+</h3>
 
 
 I am building fast, memory-efficient software to study signaling on the single-cell level.
