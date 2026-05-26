@@ -6,9 +6,7 @@
 <h1 align="center">Tim Stohn</h1>
 
 <p align="center">
-<h5 align="center">
   Modelling signaling on the single-cell level • Understanding Signal Flow • Fast & memory efficient software
-</h5>
 </p>
 
 I am building fast, memory-efficient software to study signaling on the single-cell level.
