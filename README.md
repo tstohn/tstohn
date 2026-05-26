@@ -1,9 +1,32 @@
-<img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="150" height="150" alt="SignalFlow Logo" align="left" style="margin-right: 30px; border: none; background: transparent; display: block;" />
+<!-- HEADER -->
+<table>
+  <tr>
+    <!-- LOGO -->
+    <td width="180" valign="middle">
+      <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png"
+           width="160"
+           style="display: block; border: none;" />
+    </td>
 
-### <font size="7" color="#222222">Tim Stohn</font>
-<p style="margin: 0; padding: 0;"><font size="7" color="#959595"><b>Modelling signaling on the single-cell level</b></font></p>
+    <!-- TEXT -->
+    <td valign="middle">
+      <h1 style="margin: 0; font-size: 64px; font-weight: 800; line-height: 1.05;">
+        Tim Stohn
+      </h1>
+      <p style="margin: 8px 0 0 0; font-size: 28px; font-weight: 500; color: #555555;">
+        Modelling signaling on the single-cell level
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br clear="left" />
+<!-- SPACING -->
+<br>
+
+<!-- OPTIONAL SUBLINE -->
+<p align="center" style="font-size: 18px; color: #777777; margin-top: 10px;">
+  Systems biology • Single-cell analysis • Network modeling
+</p>
 
 ---
 
