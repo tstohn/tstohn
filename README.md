@@ -1,8 +1,8 @@
 # Me
 
 I am building fast, memory-efficient software to study signaling on the single-cell level.
-Leveraging novel single-cell datasets like sequencing based single-cell protein measurement technologies I am working on scalable tools to decode cellular signaling networks.
-Therefore, i develop solutions from the raw data processing to methods to infer signaling networks.
+Leveraging novel single-cell datasets like sequencing based single-cell protein measurement technologies I am working on scalable tools to decode cellular signaling networks. My work spans the full analytical pipeline, from raw data processing and normalization to downstream network analysis of single-cell datasets (with focus on phospho-protein measurements). I develop tools—like this **[C++ Network Engine]([https://github.com/yourusername/repo](https://github.com/tstohn/ESGI))** — that process barcoded single-cell data fast and memory efficient to go from raw fatsq-files to your single-cell feature matrices and rusn easily on standard laptops. Other tools include LoCo - **[C++ Network Engine](https://github.com/tstohn/LoCo)** - and R-package to quickly search for local correlation pattern in single-cell data that are cell-state specific.
+
 
 I develop fast, memory-efficient, and scalable software solutions for single-cell data analysis, with a strong focus on extracting meaningful biological insights from complex datasets. 
 My current research centers on (phospho)protein data, where I study correlation patterns at the single-cell level to infer signaling networks. 
