@@ -5,10 +5,11 @@
 
 <h1 align="center">Tim Stohn</h1>
 
+<p align="center">
 <h5 align="center">
   Modelling signaling on the single-cell level • Understanding Signal Flow • Fast & memory efficient software
 </h5>
-
+</p>
 
 I am building fast, memory-efficient software to study signaling on the single-cell level.
 Leveraging novel single-cell datasets like sequencing based single-cell protein measurement technologies I am working on scalable tools to decode cellular signaling networks. My work spans the full analytical pipeline, from raw data processing and normalization to downstream network analysis of single-cell datasets (with focus on phospho-protein measurements). I develop tools from raw data processing to tools that study signaling on the single-cell level. E.g., I developed ESGI — **[Efficient Splitting of Generic Indices](https://github.com/tstohn/ESGI)** — a generic tool to processes barcoded single-cell data fast and memory efficient to go from raw FASTQ-files to your single-cell feature matrices and runs easily on standard laptops at home. Other tools include LoCo - **[Local Correlations](https://github.com/tstohn/LoCo)** - and R-package to detect local correlation patterns in single-cell data that are cell-state specific. LoCo is based on a high-performance C++ framework to calcualtes in seconds correlations in thousands of single-cell neighbourhoods across hundrets of features.
