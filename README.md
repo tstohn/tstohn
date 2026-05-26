@@ -5,12 +5,8 @@
 
 <h1 align="center">Tim Stohn</h1>
 
-<p align="center">
-  <b>Modelling signaling on the single-cell level</b>
-</p>
-
 <h3 align="center">
-  Understanding Signal Flow • Fast & memory efficient software
+  Modelling signaling on the single-cell level • Understanding Signal Flow • Fast & memory efficient software
 </h3>
 
 
