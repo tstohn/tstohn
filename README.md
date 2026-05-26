@@ -1,7 +1,10 @@
-<h1 style="display: flex; align-items: center; gap: 12px;">
-  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="90" alt="SignalFlow Logo" style="display: inline-block;" />
-  <span>Me</span>
-</h1>
+<div style="display: flex; align-items: center; gap: 16px;">
+  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="55" alt="SignalFlow Logo" />
+  <div>
+    <h1 style="margin: 0; padding: 0; color: #000000; font-size: 2rem; border-bottom: none;">Bio & Research</h1>
+    <p style="margin: 4px 0 0 0; padding: 0; color: #555555; font-size: 1.1rem; font-weight: 500;">Modelling signal flow in single cells</p>
+  </div>
+</div>
 
 ---
 
