@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="100" height="100" alt="SignalFlow Logo" align="left" style="margin-right: 20px; border: none; background: transparent; object-fit: contain;" />
 
-<h1 style="margin: 0; padding: 0; color: #222222; font-size: 2.6rem; line-height: 1.1; font-weight: 800; letter-spacing: -0.5px; border-bottom: none; background: transparent;">Tim Stohn</h1>
+<div style="margin: 0; padding: 0; color: #222222; font-size: 2.6rem; line-height: 1.1; font-weight: 800; letter-spacing: -0.5px; border: none; background: transparent;">Tim Stohn</div>
 
 <p style="margin: 6px 0 0 0; padding: 0; color: #959595; font-size: 1.35rem; font-weight: 500; line-height: 1.1; letter-spacing: -0.2px; background: transparent;">Modelling signaling on the single-cell level</p>
 
