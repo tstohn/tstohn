@@ -16,13 +16,13 @@ Leveraging novel single-cell datasets like sequencing based single-cell protein 
 ESGI - Efficient Splitting of Generic Indices:
 
 <a href="https://github.com/tstohn/ESGI">
-  <img src="https://github.com/tstohn/ESGI/blob/master/docs/media/SYMBOL.png" width="140">
+  <img src="https://github.com/tstohn/ESGI/blob/master/docs/media/SYMBOL.png" width="145">
 </a>
 
 LoCo - Local Correlation Analysis:
 
 <a href="https://github.com/tstohn/LoCo">
-  <img src="https://github.com/tstohn/LoCo/blob/master/docs/LoCo5.png" width="100">
+  <img src="https://github.com/tstohn/LoCo/blob/master/docs/LoCo5.png" width="90">
 </a>
 
 
