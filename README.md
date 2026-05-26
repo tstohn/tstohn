@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="75" alt="SignalFlow Logo"><br>
-  <h1>Me</h1>
-</p>
+<h1>
+  Me 
+  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="45" alt="SignalFlow Logo" style="vertical-align: middle; margin-left: 10px;" />
+</h1>
 
 ---
 
