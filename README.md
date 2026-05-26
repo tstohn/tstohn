@@ -1,4 +1,4 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border: 0px solid transparent; border-collapse: collapse; border-spacing: 0; background: transparent; background-color: transparent; width: 100%; margin: 0; padding: 0;">
+<table border="0" cellpadding="0" cellspacing="0" style="border: 0px solid transparent; border-collapse: collapse; border-spacing: 0; background: transparent; background-color: transparent; width: 0%; margin: 0; padding: 0;">
   <tr style="border: 0px solid transparent; background: transparent; background-color: transparent;">
     <td style="border: 0px solid transparent; background: transparent; background-color: transparent; padding: 0; width: 100px; vertical-align: middle;">
       <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="100" height="100" alt="SignalFlow Logo" style="display: block; min-width: 100px; max-width: 100px; object-fit: contain; border: 0px solid transparent;" />
