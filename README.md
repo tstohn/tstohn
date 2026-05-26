@@ -23,6 +23,7 @@ I am proficient in C++, R, and Python, and particularly interested in performanc
 I am currently a PhD student based in Leiden, completing my doctorate at the Netherlands Cancer Institute (NKI) in collaboration with VU Amsterdam. 
 I previously studied Biotechnology at TU Berlin and Bioinformatics at the University of Hamburg.
 
+Click on below projects for information how to de-barcode your single-cell data or unravel local correlation patterns:
 ESGI - Efficient Splitting of Generic Indices:
 
 <a href="https://github.com/tstohn/ESGI">
