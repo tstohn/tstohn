@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Systems biology • Single-cell analysis • Network modeling
+  Understanding Signal Flow • Fast & memory efficient software
 </p>
 ---
 
