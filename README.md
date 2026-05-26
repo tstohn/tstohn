@@ -1,33 +1,20 @@
-<!-- HEADER -->
 <table>
   <tr>
-    <!-- LOGO -->
-    <td width="180" valign="middle">
+    <td width="170" valign="middle">
       <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png"
-           width="160"
-           style="display: block; border: none;" />
+           width="150"
+           style="display:block; border:none;" />
     </td>
-
-    <!-- TEXT -->
     <td valign="middle">
-      <h1 style="margin: 0; font-size: 64px; font-weight: 800; line-height: 1.05;">
+      <h1 style="margin:0; font-size: 56px; color:#000000;">
         Tim Stohn
       </h1>
-      <p style="margin: 8px 0 0 0; font-size: 28px; font-weight: 500; color: #555555;">
+      <p style="margin:0; font-size: 28px; color:#444444; font-weight:600;">
         Modelling signaling on the single-cell level
       </p>
     </td>
   </tr>
 </table>
-
-<!-- SPACING -->
-<br>
-
-<!-- OPTIONAL SUBLINE -->
-<p align="center" style="font-size: 18px; color: #777777; margin-top: 10px;">
-  Systems biology • Single-cell analysis • Network modeling
-</p>
-
 ---
 
 I am building fast, memory-efficient software to study signaling on the single-cell level.
