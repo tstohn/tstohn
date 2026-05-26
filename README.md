@@ -1,15 +1,16 @@
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
+<table cellpadding="0" cellspacing="0"
+       style="border-collapse: collapse; border-spacing: 0; border: none;">
+  <tr>
     
     <td width="170" valign="middle"
-        style="border: none; padding: 0;">
+        style="border: none !important; padding: 0;">
       <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png"
            width="150"
            style="display:block; border:none;" />
     </td>
     
     <td valign="middle"
-        style="border: none; padding: 0;">
+        style="border: none !important; padding: 0;">
       <h1 style="margin:0; font-size: 56px;">
         Tim Stohn
       </h1>
