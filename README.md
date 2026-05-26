@@ -1,4 +1,3 @@
-Paste this directly into your README (no backticks around it):
 
 <table> <tr> <td width="170" valign="middle" style="padding:0;"> <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="150" /> </td> <td valign="middle" style="padding:0;"> <h1>Tim Stohn</h1> <p><b>Modelling signaling on the single-cell level</b></p> </td> </tr> </table>
 
