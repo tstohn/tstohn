@@ -1,10 +1,8 @@
-<div style="background: transparent; border: none; padding: 0; margin: 0;">
-  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="100" height="100" alt="SignalFlow Logo" align="left" style="margin-right: 24px; border: none; background: transparent; object-fit: contain; box-shadow: none;" />
-  <div style="display: inline-block; vertical-align: middle; border: none; background: transparent; padding: 0; margin: 0;">
-    <div style="margin: 0; padding: 0; color: #222222; font-size: 3.1rem; line-height: 1.05; font-weight: 900; letter-spacing: -0.8px; border: none; background: transparent;">Tim Stohn</div>
-    <div style="margin: 8px 0 0 0; padding: 0; color: #959595; font-size: 1.45rem; font-weight: 500; line-height: 1.1; letter-spacing: -0.3px; border: none; background: transparent;">Modelling signaling on the single-cell level</div>
-  </div>
-</div>
+<img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="100" height="100" alt="SignalFlow Logo" align="left" style="margin-right: 20px; border: none; background: transparent; display: block;" />
+
+# Tim Stohn
+### <font color="#959595">Modelling signaling on the single-cell level</font>
+
 <br clear="left" />
 
 ---
