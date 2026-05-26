@@ -1,26 +1,6 @@
-<table cellpadding="0" cellspacing="0"
-       style="border-collapse: collapse; border-spacing: 0; border: none;">
-  <tr>
-    
-    <td width="170" valign="middle"
-        style="border: none !important; padding: 0;">
-      <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png"
-           width="150"
-           style="display:block; border:none;" />
-    </td>
-    
-    <td valign="middle"
-        style="border: none !important; padding: 0;">
-      <h1 style="margin:0; font-size: 56px;">
-        Tim Stohn
-      </h1>
-      <p style="margin:0; font-size: 28px; color:#444444; font-weight:600;">
-        Modelling signaling on the single-cell level
-      </p>
-    </td>
-    
-  </tr>
-</table>
+Paste this directly into your README (no backticks around it):
+
+<table> <tr> <td width="170" valign="middle" style="padding:0;"> <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="150" /> </td> <td valign="middle" style="padding:0;"> <h1>Tim Stohn</h1> <p><b>Modelling signaling on the single-cell level</b></p> </td> </tr> </table>
 
 ---
 
