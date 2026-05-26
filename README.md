@@ -2,17 +2,19 @@
   style="border-collapse: collapse; border: none; mso-table-lspace:0; mso-table-rspace:0;">
   <tr>
     <td style="border: none; padding: 0; mso-line-height-rule: exactly;">
-      Content
-    </td>
-  </tr>
+
   
-  <tr style="border: 0px solid transparent; background: transparent; background-color: transparent;">
-    <td style="border: 0px solid transparent; background: transparent; background-color: transparent; padding: 0; width: 100px; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="100" height="100" alt="SignalFlow Logo" style="display: block; min-width: 100px; max-width: 100px; object-fit: contain; border: 0px solid transparent;" />
-    </td>
-    <td style="border: 0px solid transparent; background: transparent; background-color: transparent; padding: 0 0 0 20px; height: 100px; vertical-align: middle;">
-      <h1 style="margin: 0; padding: 0; color: #222222; font-size: 2.6rem; border-bottom: none; line-height: 1.1; font-weight: 800; letter-spacing: -0.5px;">Tim Stohn</h1>
-      <p style="margin: 6px 0 0 0; padding: 0; color: #959595; font-size: 1.35rem; font-weight: 500; line-height: 1.1; letter-spacing: -0.2px;">Modelling signaling on the single-cell level</p>
+    <tr style="border: 0px solid transparent; background: transparent; background-color: transparent;">
+      <td style="border: 0px solid transparent; background: transparent; background-color: transparent; padding: 0; width: 100px; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="100" height="100" alt="SignalFlow Logo" style="display: block; min-width: 100px; max-width: 100px; object-fit: contain; border: 0px solid transparent;" />
+      </td>
+      <td style="border: 0px solid transparent; background: transparent; background-color: transparent; padding: 0 0 0 20px; height: 100px; vertical-align: middle;">
+        <h1 style="margin: 0; padding: 0; color: #222222; font-size: 2.6rem; border-bottom: none; line-height: 1.1; font-weight: 800; letter-spacing: -0.5px;">Tim Stohn</h1>
+        <p style="margin: 6px 0 0 0; padding: 0; color: #959595; font-size: 1.35rem; font-weight: 500; line-height: 1.1; letter-spacing: -0.2px;">Modelling signaling on the single-cell level</p>
+      </td>
+    </tr>
+
+  
     </td>
   </tr>
 </table>
