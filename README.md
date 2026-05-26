@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="100" height="100" alt="SignalFlow Logo" align="left" style="margin-right: 20px; border: none; background: transparent; display: block;" />
 
-<h2 style="border: none; margin: 0; padding: 0;"><font size="7" color="#222222"><b>Tim Stohn</b></font></h2>
- <font color="#959595">Modelling signaling on the single-cell level</font>
+<p style="margin: 0; padding: 0;"><font size="7" color="#222222"><b>Tim Stohn</b></font></p>
+<p style="margin: 0; padding: 0;"><font size="4" color="#959595"><b>Modelling signaling on the single-cell level</b></font></p>
 
 <br clear="left" />
 
