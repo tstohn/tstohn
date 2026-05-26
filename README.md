@@ -1,20 +1,26 @@
-<table>
-  <tr>
-    <td width="170" valign="middle">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    
+    <td width="170" valign="middle"
+        style="border: none; padding: 0;">
       <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png"
            width="150"
            style="display:block; border:none;" />
     </td>
-    <td valign="middle">
-      <h1 style="margin:0; font-size: 56px; color:#000000;">
+    
+    <td valign="middle"
+        style="border: none; padding: 0;">
+      <h1 style="margin:0; font-size: 56px;">
         Tim Stohn
       </h1>
       <p style="margin:0; font-size: 28px; color:#444444; font-weight:600;">
         Modelling signaling on the single-cell level
       </p>
     </td>
+    
   </tr>
 </table>
+
 ---
 
 I am building fast, memory-efficient software to study signaling on the single-cell level.
