@@ -1,24 +1,4 @@
-<div style="display: table; width: 100%; border-collapse: collapse; background: transparent; border: none; margin: 0; padding: 0;">
-  <div style="display: table-row; background: transparent; border: none;">
-    
-    <div style="display: table-cell; width: 100px; vertical-align: middle; padding: 0; border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png"
-           width="100" height="100"
-           alt="SignalFlow Logo"
-           style="display: block; min-width: 100px; max-width: 100px; object-fit: contain; border: none; background: transparent;" />
-    </div>
-    
-    <div style="display: table-cell; vertical-align: middle; padding: 0 0 0 20px; height: 100px; border: none; background: transparent;">
-      <h1 style="margin: 0; padding: 0; color: #222222; font-size: 2.6rem; line-height: 1.1; font-weight: 800; letter-spacing: -0.5px; border-bottom: none; background: transparent;">
-        Tim Stohn
-      </h1>
-      <p style="margin: 6px 0 0 0; padding: 0; color: #959595; font-size: 1.35rem; font-weight: 500; line-height: 1.1; letter-spacing: -0.2px; background: transparent;">
-        Modelling signaling on the single-cell level
-      </p>
-    </div>
-    
-  </div>
-</div>
+<div style="display: table; width: 100%; border-collapse: collapse; background: transparent; border: none; margin: 0; padding: 0;"><div style="display: table-row; background: transparent; border: none;"><div style="display: table-cell; width: 100px; vertical-align: middle; padding: 0; border: none; background: transparent;"><img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="100" height="100" alt="SignalFlow Logo" style="display: block; min-width: 100px; max-width: 100px; object-fit: contain; border: none; background: transparent;" /></div><div style="display: table-cell; vertical-align: middle; padding: 0 0 0 20px; height: 100px; border: none; background: transparent;"><h1 style="margin: 0; padding: 0; color: #222222; font-size: 2.6rem; line-height: 1.1; font-weight: 800; letter-spacing: -0.5px; border-bottom: none; background: transparent;">Tim Stohn</h1><p style="margin: 6px 0 0 0; padding: 0; color: #959595; font-size: 1.35rem; font-weight: 500; line-height: 1.1; letter-spacing: -0.2px; background: transparent;">Modelling signaling on the single-cell level</p></div></div></div>
 
 ---
 
