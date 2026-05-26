@@ -1,6 +1,17 @@
 
-<table> <tr> <td width="170" valign="middle" style="padding:0;"> <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="150" /> </td> <td valign="middle" style="padding:0;"> <h1>Tim Stohn</h1> <p><b>Modelling signaling on the single-cell level</b></p> </td> </tr> </table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="140" />
+</p>
 
+<h1 align="center">Tim Stohn</h1>
+
+<p align="center">
+  <b>Modelling signaling on the single-cell level</b>
+</p>
+
+<p align="center">
+  Systems biology • Single-cell analysis • Network modeling
+</p>
 ---
 
 I am building fast, memory-efficient software to study signaling on the single-cell level.
