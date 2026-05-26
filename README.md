@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">Tim Stohn</h1>
-<p align="center">──────────────</p>
 
 <p align="center">
   Modelling signaling on the single-cell level • Understanding Signal Flow • Fast & memory efficient software
