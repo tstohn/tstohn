@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" href="https://github.com/tstohn/tstohn">
   <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="140" />
 </p>
 
