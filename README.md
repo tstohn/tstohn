@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/tstohn/tstohn">
+  <a href="https://github.com/tstohn">
     <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="140" alt="SignalFlow Logo" />
   </a>
 </div>
