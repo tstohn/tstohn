@@ -1,7 +1,9 @@
 
-<p align="center" href="https://github.com/tstohn/tstohn">
-  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="140" />
-</p>
+<div align="center">
+  <a href="https://github.com/tstohn/tstohn">
+    <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/LOGO_SIGNALFLOW.png" width="140" alt="SignalFlow Logo" />
+  </a>
+</div>
 
 <h1 align="center">Tim Stohn</h1>
 
