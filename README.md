@@ -20,7 +20,7 @@ In the future I plan to combine these mechanistic pathway modelling techniques (
 
 I am proficient in C++, R, and Python, and particularly interested in performance-oriented computing and scalable algorithms design for large and complex biological datasets.
 
-I am currently a PhD student based in Leiden, completing my doctorate at the Netherlands Cancer Institute (NKI) in collaboration with VU Amsterdam. 
+I am based in Leiden, just finished writing my PhD thesis (at the NKI and VU Amsterdam) and am looking now for new opportunities. 
 I previously studied Biotechnology at TU Berlin and Bioinformatics at the University of Hamburg.
 
 <p align=>────────────────────────────────────────────</p>
