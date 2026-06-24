@@ -29,9 +29,11 @@ I previously studied Biotechnology at TU Berlin and Bioinformatics at the Univer
 
 During my PhD I worked on various projects to develop and benchmark tools that process sequencing based single-cell protein data to study signaling networks on a single-cell level and unravel signaling heterogeneity. I hope to use these tool to better understand and guide treatment strategies for different disease such as cancer.
 
-Below you find an overview of some projects that i wortked on:
+Below you find an overview of some projects that i worked on:
+
+
 <a>
-  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/THESIS_SUMMARY.png" width="300">
+  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/THESIS_SUMMARY.png" width="600">
 </a>
 
 <p align=>────────────────────────────────────────────</p>
