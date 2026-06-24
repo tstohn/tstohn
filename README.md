@@ -33,7 +33,7 @@ Below you find an overview of some projects that i worked on:
 
 
 <a>
-  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/THESIS_SUMMARY.png" width="600">
+  <img src="https://raw.githubusercontent.com/tstohn/tstohn/main/THESIS_SUMMARY.png" width="1000">
 </a>
 
 <p align=>────────────────────────────────────────────</p>
