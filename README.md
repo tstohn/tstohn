@@ -8,7 +8,8 @@
 <h1 align="center">Tim Stohn</h1>
 
 <p align="center">
-  Modelling signaling on the single-cell level • Understanding Signal Flow • Fast & memory efficient software
+  Modelling signaling on the single-cell level • Understanding Signal Flow • Fast & memory efficient software 
+  
   Combine AI with network biology to build explainable models of cell signaling and predict drug effects
 <p align="center">──────────────</p>
 
