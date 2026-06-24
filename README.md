@@ -27,6 +27,13 @@ I am proficient in C++, R, and Python, and particularly interested in performanc
 I am based in Leiden, just finished writing my PhD thesis (at the NKI and VU Amsterdam) and am looking now for new opportunities. 
 I previously studied Biotechnology at TU Berlin and Bioinformatics at the University of Hamburg.
 
+During my PhD I worked on various projects to develop and benchmark tools that process sequencing based single-cell protein data to study signaling networks on a single-cell level and unravel signaling heterogeneity. I hope to use these tool to better understand and guide treatment strategies for different disease such as cancer.
+
+Below you find an overview of some projects that i wortked on:
+<a href="https://github.com/tstohn/ESGI">
+  <img src="https://github.com/tstohn/ESGI/blob/master/docs/media/THESIS_SUMMARY.png" width="300">
+</a>
+
 <p align=>────────────────────────────────────────────</p>
 Click on below projects for information how to de-barcode your single-cell data or unravel local correlation patterns
 <p align=>────────────────────────────────────────────</p>
